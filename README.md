@@ -1,1 +1,2 @@
-# Wireless-Communication
+# Wireless Communication of LoRa E32 Using Arduino UNO
+This project showcases wireless communication between two LoRa E32-868T30D modules using Arduino UNO at both ends. It enables bi-directional signal transmission, where pressing a button on one device triggers an action (such as turning on an LED) on the other device—and vice versa. On one side, a button acts as an input trigger, and on the opposite side, an LED functions as the output indicator. This demonstrates how LoRa modules can reliably exchange signals over long distances to facilitate simple interactions between two remote devices, highlighting their potential in basic IoT and embedded systems applications.
